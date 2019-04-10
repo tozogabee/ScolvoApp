@@ -1,0 +1,12 @@
+{
+    "addresses":
+     [
+        {"id":100, "PostalCode":"1000", "City":"Bp", "Address":"Géza utca 5"},
+        {"id":300, "PostalCode":"1135", "City":"Bp", "Address":"Fiastyúk utca 5"},
+		{"id":600, "PostalCode":"1234", "City":"Bp", "Address":"Lajos köz 13"},
+		{"id":900, "PostalCode":"1048", "City":"Bp", "Address":"István tér 105"},
+		{"id":200, "PostalCode":"1056", "City":"Bp", "Address":"Deák tér 1"},
+		{"id":400, "PostalCode":"2046", "City":"Debrecen", "Address":"Jókai köz 987"},
+		{"id":500, "PostalCode":"4500", "City":"Ny�regyh�za", "Address":"Király köz 9"}
+     ]
+}
